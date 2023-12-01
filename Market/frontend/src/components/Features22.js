@@ -8,7 +8,7 @@ import Typography from "@mui/material/Typography";
 
 const mock = [
   {
-    title: "Web design",
+    title: "An open community",
     subtitle:
       "We design and develop beautiful, lightning fast, scalable, and marketing-focused websites tailored to grow your business.",
     icon: (
