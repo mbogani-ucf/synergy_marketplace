@@ -38,7 +38,7 @@ const HomeHero2 = () => {
       </Box>
       <Box marginBottom={3}>
         <Typography variant="h6" component="p" color="black">
-          We form a forward thinking community where everyone can learn, share and rate
+          We formed a forward thinking community where everyone can learn, share and rate
         </Typography>
       </Box>
 
