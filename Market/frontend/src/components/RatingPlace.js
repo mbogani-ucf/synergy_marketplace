@@ -43,7 +43,7 @@ const RatingPlace = () => {
                       color: "common.white",
                     }}
                   >
-                    COMPLETE CONTROL
+                    INFORMATION AT YOUR FINGERTIPS
                   </Typography>
                 </Box>
                 <Box marginBottom={2}>
@@ -52,7 +52,7 @@ const RatingPlace = () => {
                     variant="h4"
                     sx={{ fontWeight: 700, color: "common.white" }}
                   >
-                    Monitor and analyze usage patterns.
+                    See only what you want to see
                   </Typography>
                 </Box>
                 <Typography
@@ -60,12 +60,8 @@ const RatingPlace = () => {
                   component="p"
                   sx={{ color: "common.white" }}
                 >
-                  Keep track of what's happening with your data, change
-                  permissions, and run reports against your data anywhere in the
-                  world.
-                  <br />
-                  Forward thinking businesses use our cloud backup service to
-                  ensure data reliability and safety.
+                  Our tools and settings let you Keep track of all the companies or sectors you want to track. Likewise, you can keep track of your favorite users.
+                  <br />                 
                 </Typography>
               </Box>
             </Container>
@@ -105,8 +101,8 @@ const RatingPlace = () => {
                   </Box>
                 </Box>
                 <Typography color="white">
-                  American standards and european culture how to avoid a
-                  disappointing vacation experience while traveling in Europe
+                Josh explained and showed us why our group should focus on a specific sector and was both
+                friendly and helpful, his group is invaluable! A+
                 </Typography>
               </CardContent>
               <CardActions sx={{ paddingBottom: 2 }}>

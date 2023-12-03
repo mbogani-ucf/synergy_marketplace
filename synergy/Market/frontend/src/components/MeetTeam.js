@@ -21,10 +21,10 @@ const MeetTeam = () => {
           color={"black"}
           align={"center"}
         >
-          Our team
+          Our Founders
         </Typography>
         <Typography fontWeight={700} variant={"h4"} align={"center"}>
-          Trust the professionals
+          Always working on improving and evolving our community
         </Typography>
       </Box>
       <Grid container spacing={2}>

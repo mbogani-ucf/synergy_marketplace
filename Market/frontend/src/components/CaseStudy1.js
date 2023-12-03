@@ -64,11 +64,11 @@ const CaseStudy1 = () => {
                 gutterBottom
                 style={{ color: "white" }}
               >
-                Lifetime guarantee
+                Diligently moderated
               </Typography>
               <Typography style={{ color: "white" }} component={"p"}>
-                If your Goby’s performance is anything less than perfect, we’ll
-                replace it free of charge.
+                We are aware of bots and manipulations, thus we have always-on algorithyms and set parameters for pattern detection
+                that violates our terms of service.
               </Typography>
             </Grid>
             <Grid item xs={6}>
@@ -78,11 +78,10 @@ const CaseStudy1 = () => {
                 fontWeight={700}
                 gutterBottom
               >
-                Moder design
+                Modern design
               </Typography>
               <Typography style={{ color: "white" }} component={"p"}>
-                Righty, lefty, dainty or robust—the soft-touch Goby handle is
-                made for every hand.
+              We aim to keep everything simple, customizable, scalable, and flexible.
               </Typography>
             </Grid>
           </Grid>
@@ -101,11 +100,12 @@ const CaseStudy1 = () => {
                 fontWeight={700}
                 gutterBottom
               >
-                Goby
+                The Economy
               </Typography>
               <Typography style={{ color: "white" }}>
-                The affordable electric toothbrush designed to elevate your
-                daily routine. Take the Goby for a spin. Free shipping.
+                Time and time again we have seen the market make uncertain trajectories foreseen by a select few.
+                We aim to bring everyone together while and give everyone the ability to vote for the best
+              
               </Typography>
             </Box>
             <Box
@@ -133,9 +133,7 @@ const CaseStudy1 = () => {
                   }}
                 />
                 <Typography component={"p"}>
-                  First class templates. These guys know what they're doing:
-                  great code quality, clear naming conventions and clear code
-                  structure. Plain awesome and a pleasure to work with.
+                  Backed by trustworthy payment processors, membership fees can be easily managed.
                 </Typography>
               </CardContent>
             </Box>

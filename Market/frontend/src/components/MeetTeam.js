@@ -23,7 +23,7 @@ const MeetTeam = () => {
           Our team
         </Typography>
         <Typography fontWeight={700} variant={"h4"} align={"center"}>
-          Trust the professionals
+          Always dedicated to improving and evolving our community
         </Typography>
       </Box>
       <Grid container spacing={2}>
@@ -31,22 +31,22 @@ const MeetTeam = () => {
           {
             name: "Marco Bogani",
             title: "CEO at Synergy",
-            avatar: "https://assets.maccarianagency.com/avatars/img3.jpg",
+            avatar: "https://i.imgur.com/YhIfZZhl.png",
           },
           {
             name: "Sulaiman Karmali",
             title: "CTO",
-            avatar: "https://assets.maccarianagency.com/avatars/img4.jpg",
+            avatar: "https://i.imgur.com/fNV337P.png",
           },
           {
             name: "Daman Sawhney",
             title: "CFO",
-            avatar: "https://assets.maccarianagency.com/avatars/img5.jpg",
+            avatar: "https://i.imgur.com/huN0lrk.png",
           },
           {
             name: "William Harris",
             title: "President & VP",
-            avatar: "https://assets.maccarianagency.com/avatars/img6.jpg",
+            avatar: "https://i.imgur.com/lS6NZCA.png",
           },
         ].map((item, i) => (
           <Grid

@@ -10,7 +10,7 @@ const mock = [
   {
     title: "An open community",
     subtitle:
-      "We design and develop beautiful, lightning fast, scalable, and marketing-focused websites tailored to grow your business.",
+      "A portal to all experiences and backgrounds",
     icon: (
       <svg
         height={24}
@@ -30,9 +30,9 @@ const mock = [
     ),
   },
   {
-    title: "UI / UX Design",
+    title: "You set the rules",
     subtitle:
-      "We craft great user centered interfaces for web and mobile apps. We ensure to deliver intuitive and seamless experiences.",
+      "All rankings, reviews, and interfaces are set by you",
     icon: (
       <svg
         height={24}
@@ -52,9 +52,9 @@ const mock = [
     ),
   },
   {
-    title: "Product Design",
+    title: "A pool of knowledge",
     subtitle:
-      "We help you to carefully improve your digital product to deliver a great user experience, grow its user base and increase retention.",
+      "A place anyone can share their ideas and tactics. ",
     icon: (
       <svg
         height={24}
@@ -86,7 +86,7 @@ const Features22 = () => {
           align={"center"}
           sx={{ fontWeight: 700 }}
         >
-          We craft beautiful websites and digital products
+          A crafted comunity with one goal in mind, financial freedom
         </Typography>
         <Typography
           color="black"
@@ -94,8 +94,7 @@ const Features22 = () => {
           component={"p"}
           align={"center"}
         >
-          We design, develop and launch websites and products for startups,
-          companies and ourselves.
+          A portal designed from the ground up letting users bring out the best of the best into one place.
         </Typography>
       </Box>
       <Box>

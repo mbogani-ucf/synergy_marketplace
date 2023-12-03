@@ -19,7 +19,7 @@ const HomeHero2 = () => {
     <Box data-aos={isMd ? "fade-right" : "fade-up"}>
       <Box marginBottom={2}>
         <Typography variant="h2" sx={{ fontWeight: 700 }}>
-          Synergy - We make trading {" "}
+          Synergy - Craft your own wealth  {" "}
         </Typography>
         <Typography
           color={"#2371C8"}
@@ -33,13 +33,12 @@ const HomeHero2 = () => {
             )} 0%)`,
           }}
         >
-          Easy
+          Together
         </Typography>
       </Box>
       <Box marginBottom={3}>
         <Typography variant="h6" component="p" color="black">
-          Forward thinking businesses use our cloud backup service to ensure
-          data reliability and safety.
+          We form a forward thinking community where everyone can learn, share and rate
         </Typography>
       </Box>
 

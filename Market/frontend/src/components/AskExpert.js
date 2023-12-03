@@ -35,7 +35,7 @@ const mock = [
     ),
     title: "Sign Up",
     subtitle:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Browse hundreds of communities focused on different strategies, technical analysis, and news",
   },
   {
     icon: (
@@ -57,7 +57,7 @@ const mock = [
     ),
     title: "Create Events",
     subtitle:
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+      "Get access to a multitude of moderated chat rooms, spaces, and threads ",
   },
 ];
 
@@ -73,13 +73,14 @@ const AskExpert = () => {
         <Grid item xs={12} md={6} data-aos={isMd ? "fade-right" : "fade-up"}>
           <Box marginBottom={4}>
             <Typography sx={{ fontWeight: 700 }} variant={"h4"} gutterBottom>
-              Ask an expert
+            Trade with community-acclaimed experts 
             </Typography>
             <Typography variant={"h6"} component={"p"} color={"black"}>
-              Lorem ipsum dolor sit amet,
+            Everyone gets to rate and review each other,
               <br />
-              consectetur adipiscing elit. Id ultricies sed ultricies fringilla
-              commodo.
+              We provide everyone the ability to voice their opinion
+              to generate a community-based consensus instead of relying
+              on private criteria 
             </Typography>
           </Box>
           <List

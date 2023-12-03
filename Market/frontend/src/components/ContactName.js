@@ -43,7 +43,7 @@ const ContactName = () => {
           </Box>
           <Box>
             <Typography variant="h6" color={"white"}>
-              We'd love to talk about how we can help you.
+              Our headquaters are proudly located in Orlando, FL
             </Typography>
           </Box>
         </Box>
@@ -56,7 +56,7 @@ const ContactName = () => {
             marginHeight={0}
             marginWidth={0}
             scrolling="no"
-            src="https://maps.google.com/maps?width=100%&height=100%&hl=en&q=Milan&ie=UTF8&t=&z=14&iwloc=B&output=embed"
+            src="https://maps.google.com/maps?width=100%&height=100%&hl=en&q=Orlando&ie=UTF8&t=&z=14&iwloc=B&output=embed"
             style={{
               minHeight: 300,
               borderRadius: 8,
