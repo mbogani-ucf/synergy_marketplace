@@ -45,7 +45,7 @@ const CaseStudy1 = () => {
                 height={1}
                 width={1}
                 src={
-                  "https://images.pexels.com/photos/6120182/pexels-photo-6120182.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-6120182.jpg&fm=jpg"
+                  "https://images.pexels.com/photos/6120182/pexels-photo-6120182.jpeg?cs=srgb&dl=pexels-nataliya--6120182.jpg&fm=jpgvaitkevich"
                 }
                 alt="..."
                 effect="blur"
