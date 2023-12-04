@@ -41,12 +41,12 @@ const MeetTeam = () => {
           {
             name: "Daman Sawhney",
             title: "CFO",
-            avatar: "https://i.imgur.com/huN0lrk.png",
+            avatar: "https://i.imgur.com/lS6NZCA.png",
           },
           {
             name: "William Harris",
             title: "President & VP",
-            avatar: "https://i.imgur.com/lS6NZCA.png",
+            avatar: "https://i.imgur.com/huN0lrk.png",
           },
         ].map((item, i) => (
           <Grid
