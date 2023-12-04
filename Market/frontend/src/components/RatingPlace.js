@@ -52,7 +52,7 @@ const RatingPlace = () => {
                     variant="h4"
                     sx={{ fontWeight: 700, color: "common.white" }}
                   >
-                    See only what you want to see
+                    See only what you need to see
                   </Typography>
                 </Box>
                 <Typography
@@ -60,7 +60,7 @@ const RatingPlace = () => {
                   component="p"
                   sx={{ color: "common.white" }}
                 >
-                  Our tools and settings let you Keep track of all the companies or sectors you want to track. Likewise, you can keep track of your favorite users.
+                  Our tools and settings let you Keep track of all the communities, companies or sectors you want to track. Likewise, you can keep track of your favorite users.
                   <br />                 
                 </Typography>
               </Box>

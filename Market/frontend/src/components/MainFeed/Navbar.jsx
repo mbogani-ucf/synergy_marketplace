@@ -226,7 +226,7 @@ const Navbar = () => {
             </IconButton>
             <InputBase
               sx={{ ml: 1, flex: 1 }}
-              placeholder="Search Google Maps"
+              placeholder="Search Communities"
               inputProps={{ "aria-label": "search google maps" }}
             />
             <IconButton type="button" sx={{ p: "10px" }} aria-label="search">
